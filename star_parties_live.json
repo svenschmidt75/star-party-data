@@ -1,0 +1,215 @@
+[
+  {
+    "party_id": "okie-tex",
+    "start_date_iso": "2027-09-24",
+    "end_date_iso": "2027-10-02",
+    "registration_status": null,
+    "registration_opens_at_iso": null,
+    "early_registration_fee": 110,
+    "gate_registration_fee": 160,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "tsp",
+    "start_date_iso": "2027-05-02",
+    "end_date_iso": "2027-05-09",
+    "registration_status": "AnnouncedOpensAt",
+    "registration_opens_at_iso": "2026-11-27",
+    "early_registration_fee": 180,
+    "gate_registration_fee": 200,
+    "lodging_tiers": [
+      {
+        "name": "Tent Site",
+        "rate": 17,
+        "pricing_unit": "PerNight",
+        "daily_commute_miles": 0,
+        "description": "Primitive camping under the stars"
+      },
+      {
+        "name": "RV Site",
+        "rate": 39,
+        "pricing_unit": "PerNight",
+        "daily_commute_miles": 0,
+        "description": "Full hookup sites for RVs"
+      },
+      {
+        "name": "Prude Ranch Bunkhouse",
+        "rate": 90,
+        "pricing_unit": "PerNight",
+        "daily_commute_miles": 0,
+        "description": "Shared accommodations with multiple beds"
+      },
+      {
+        "name": "Family Cabin",
+        "rate": 127,
+        "pricing_unit": "PerNight",
+        "daily_commute_miles": 0,
+        "description": "Rustic cabins with beds and basic amenities"
+      },
+      {
+        "name": "Hillside Cabins",
+        "rate": 147,
+        "pricing_unit": "PerNight",
+        "daily_commute_miles": 0,
+        "description": "Private rooms with beds, electricity, and climate control"
+      },
+      {
+        "name": "Fort Davis Off-site Motel",
+        "rate": 145,
+        "pricing_unit": "PerNight",
+        "daily_commute_miles": 6,
+        "description": "Off-site motel accommodation in Fort Davis"
+      }
+    ]
+  },
+  {
+    "party_id": "esp",
+    "start_date_iso": "2027-10-25",
+    "end_date_iso": "2027-10-30",
+    "registration_status": "AnnouncedOpensAt",
+    "registration_opens_at_iso": null,
+    "early_registration_fee": 65,
+    "gate_registration_fee": 130,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "rmss",
+    "start_date_iso": "2027-06-30",
+    "end_date_iso": "2027-07-04",
+    "registration_status": "Closed",
+    "registration_opens_at_iso": null,
+    "early_registration_fee": 80,
+    "gate_registration_fee": 120,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "osp",
+    "start_date_iso": "2027-07-06",
+    "end_date_iso": "2027-07-11",
+    "registration_status": "AnnouncedOpensAt",
+    "registration_opens_at_iso": null,
+    "early_registration_fee": 100,
+    "gate_registration_fee": 200,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "nsp",
+    "start_date_iso": "2027-08-01",
+    "end_date_iso": "2027-08-06",
+    "registration_status": "AnnouncedOpensAt",
+    "registration_opens_at_iso": null,
+    "early_registration_fee": null,
+    "gate_registration_fee": null,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "gcsp",
+    "start_date_iso": "2027-05-29",
+    "end_date_iso": "2027-06-05",
+    "registration_status": null,
+    "registration_opens_at_iso": null,
+    "early_registration_fee": null,
+    "gate_registration_fee": null,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "gssp",
+    "start_date_iso": "2026-07-11",
+    "end_date_iso": "2026-07-15",
+    "registration_status": "Closed",
+    "registration_opens_at_iso": null,
+    "early_registration_fee": null,
+    "gate_registration_fee": null,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "stellafane",
+    "start_date_iso": "2027-08-05",
+    "end_date_iso": "2027-08-08",
+    "registration_status": "Closed",
+    "registration_opens_at_iso": null,
+    "early_registration_fee": null,
+    "gate_registration_fee": null,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "ahsp",
+    "start_date_iso": "2027-09-02",
+    "end_date_iso": "2027-09-06",
+    "registration_status": null,
+    "registration_opens_at_iso": null,
+    "early_registration_fee": null,
+    "gate_registration_fee": null,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "pssg",
+    "start_date_iso": "2027-09-26",
+    "end_date_iso": "2027-10-03",
+    "registration_status": "AnnouncedOpensAt",
+    "registration_opens_at_iso": null,
+    "early_registration_fee": null,
+    "gate_registration_fee": null,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "wsp",
+    "start_date_iso": "2027-02-01",
+    "end_date_iso": "2027-02-07",
+    "registration_status": "Open",
+    "registration_opens_at_iso": null,
+    "early_registration_fee": 205,
+    "gate_registration_fee": 205,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "tmsp",
+    "start_date_iso": "2027-08-03",
+    "end_date_iso": "2027-08-07",
+    "registration_status": "AnnouncedOpensAt",
+    "registration_opens_at_iso": null,
+    "early_registration_fee": null,
+    "gate_registration_fee": null,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "cssp",
+    "start_date_iso": "2026-06-12",
+    "end_date_iso": "2026-06-14",
+    "registration_status": "Closed",
+    "registration_opens_at_iso": null,
+    "early_registration_fee": null,
+    "gate_registration_fee": null,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "bfsp",
+    "start_date_iso": "2026-09-11",
+    "end_date_iso": "2026-09-13",
+    "registration_status": "Closed",
+    "registration_opens_at_iso": null,
+    "early_registration_fee": null,
+    "gate_registration_fee": null,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "bcaf",
+    "start_date_iso": "2026-06-11",
+    "end_date_iso": "2026-06-13",
+    "registration_status": null,
+    "registration_opens_at_iso": null,
+    "early_registration_fee": null,
+    "gate_registration_fee": null,
+    "lodging_tiers": null
+  },
+  {
+    "party_id": "gbaf",
+    "start_date_iso": null,
+    "end_date_iso": null,
+    "registration_status": null,
+    "registration_opens_at_iso": null,
+    "early_registration_fee": null,
+    "gate_registration_fee": null,
+    "lodging_tiers": null
+  }
+]
