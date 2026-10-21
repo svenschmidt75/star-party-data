@@ -7,7 +7,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": 110,
     "gate_registration_fee": 160,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "tsp",
@@ -60,7 +61,8 @@
         "daily_commute_miles": 6,
         "description": "Off-site motel accommodation in Fort Davis"
       }
-    ]
+    ],
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "esp",
@@ -70,7 +72,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": 65,
     "gate_registration_fee": 130,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "rmss",
@@ -80,7 +83,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": 80,
     "gate_registration_fee": 120,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "osp",
@@ -90,7 +94,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": 100,
     "gate_registration_fee": 200,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "nsp",
@@ -100,7 +105,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": null,
     "gate_registration_fee": null,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "gcsp",
@@ -110,7 +116,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": null,
     "gate_registration_fee": null,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "gssp",
@@ -120,7 +127,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": null,
     "gate_registration_fee": null,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "stellafane",
@@ -130,7 +138,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": null,
     "gate_registration_fee": null,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "ahsp",
@@ -140,7 +149,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": null,
     "gate_registration_fee": null,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "pssg",
@@ -150,7 +160,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": null,
     "gate_registration_fee": null,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "wsp",
@@ -160,7 +171,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": 205,
     "gate_registration_fee": 205,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "tmsp",
@@ -170,7 +182,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": null,
     "gate_registration_fee": null,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "fetch_blocked": true
   },
   {
     "party_id": "cssp",
@@ -180,7 +193,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": null,
     "gate_registration_fee": null,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "bfsp",
@@ -190,7 +204,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": null,
     "gate_registration_fee": null,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "bcaf",
@@ -200,7 +215,8 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": null,
     "gate_registration_fee": null,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   },
   {
     "party_id": "gbaf",
@@ -210,6 +226,7 @@
     "registration_opens_at_iso": null,
     "early_registration_fee": null,
     "gate_registration_fee": null,
-    "lodging_tiers": null
+    "lodging_tiers": null,
+    "last_scraped_iso": "2026-10-21"
   }
 ]
